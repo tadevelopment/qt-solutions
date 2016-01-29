@@ -1,0 +1,5 @@
+qtwinmigrate/buildlib/
+qtwinmigrate/examples/
+qtwinmigrate/lib/
+qtwinmigrate/Makefile
+qtwinmigrate/config.pri
